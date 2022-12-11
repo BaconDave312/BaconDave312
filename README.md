@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dave
+- 👀 I’m interested in coding and scripts
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: BaconDave#9007 on discord
